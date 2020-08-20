@@ -1,0 +1,2 @@
+This directory contains implementations of SRFI 89 provided by people
+other than Marc Feeley, the author of the SRFI.
